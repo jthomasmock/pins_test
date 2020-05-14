@@ -10,3 +10,9 @@
   cols: 11
   description: The motor trend cars data set
   type: table
+- path: 10160000-0581-582b-8ecb-6ee0b8b09d3f
+  name: 10160000-0581-582b-8ecb-6ee0b8b09d3f
+  rows: 183
+  cols: 41
+  description: 10160000-0581-582b-8ecb-6ee0b8b09d3f
+  type: table

@@ -1,0 +1,49 @@
+path:
+- data.csv
+- data.rds
+rows: 183
+cols: 41
+columns:
+  clockTime: character
+  down: integer
+  driveNetYards: integer
+  drivePlayCount: integer
+  driveSequenceNumber: integer
+  driveTimeOfPossession: character
+  endClockTime: character
+  endYardLine: character
+  firstDown: logical
+  goalToGo: logical
+  nextPlayIsGoalToGo: logical
+  nextPlayType: character
+  orderSequence: numeric
+  penaltyOnPlay: logical
+  playClock: character
+  playDeleted: logical
+  playDescription: character
+  playDescriptionWithJerseyNumbers: character
+  playId: integer
+  playReviewStatus: logical
+  isBigPlay: logical
+  playType: character
+  playStats: list
+  prePlayByPlay: character
+  quarter: integer
+  scoringPlay: logical
+  scoringPlayType: character
+  shortDescription: character
+  specialTeamsPlay: logical
+  stPlayType: logical
+  timeOfDay: character
+  yardLine: character
+  yards: integer
+  yardsToGo: integer
+  latestPlay: logical
+  possessionTeam.abbreviation: character
+  possessionTeam.nickName: character
+  possessionTeam.franchise.currentLogo.url: character
+  scoringTeam.id: character
+  scoringTeam.abbreviation: character
+  scoringTeam.nickName: character
+description: 10160000-0581-582b-8ecb-6ee0b8b09d3f
+type: table
